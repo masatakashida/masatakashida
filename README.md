@@ -5,7 +5,7 @@ I have a strong passion for DevOps and infrastructure. My goal is to speed up th
 ### Skills & Experience 🚀
 
 - Programming languages: Ruby, C++, Go, Python
-- Cloud and Infrastructure: AWS, GCP, IoT Core, DynamoDB, Timestream, CloudFront, S3, Lambda, SQS, SNS, SES, EC2, ECS, ECR, RDS, Aurora, CloudWatch, ELB, API Gateway, MSK, IoT Events
+- Cloud and Infrastructure: AWS, GCP, IoT Core, DynamoDB, Timestream, CloudFront, S3, Lambda, SQS, SNS, SES, EC2, ECS, ECR, RDS, Aurora, CloudWatch, ELB, API Gateway, MSK, IoT Events, AppSync
 - Frameworks: Rails, Hanami
 - Container technology: Docker
 - CI/CD: Jenkins, GitHub Actions, CircleCI
