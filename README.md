@@ -1,7 +1,5 @@
 ### Hi there, I'm Masataka Shida 👋
 
-I have a strong passion for DevOps and infrastructure. My goal is to speed up the development and operations process safely, so that we can create innovative products and services that have a positive impact on the world.
-
 ### Skills & Experience 🚀
 
 - Programming languages: Ruby, C++, Go, Python
