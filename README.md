@@ -3,7 +3,7 @@
 ### Skills & Experience 🚀
 
 - Programming languages: Ruby, C++, Go, Python
-- Cloud and Infrastructure: AWS, GCP, IoT Core, DynamoDB, Timestream, CloudFront, S3, Lambda, SQS, SNS, SES, EC2, ECS, ECR, RDS, Aurora, CloudWatch, ELB, API Gateway, MSK, IoT Events, AppSync
+- Cloud and Infrastructure: AWS, GCP, IoT Core, DynamoDB, Timestream, CloudFront, S3, Lambda, SQS, SNS, SES, EC2, ECS, ECR, RDS, Aurora, CloudWatch, ELB, API Gateway, MSK, IoT Events, AppSync, Amazon Data Firehose
 - Frameworks: Rails, Hanami, React Native
 - Container technology: Docker
 - CI/CD: Jenkins, GitHub Actions, CircleCI
