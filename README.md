@@ -15,6 +15,11 @@
 
 - [Counter](https://github.com/masatakashida/counter)
 
+### エンジニア募集中
+
+- React Nativeエンジニア
+- ソリューションエンジニア
+
 ### Contact 📫
 
 - LinkedIn: https://www.linkedin.com/in/masataka-shida/
