@@ -4,10 +4,6 @@
 
 https://masatakashida.com/engineer-profile/
 
-### Projects 💼
-
-- [Counter](https://github.com/masatakashida/counter)
-
 ### エンジニア募集中
 
 - React Nativeエンジニア
