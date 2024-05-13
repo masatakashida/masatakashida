@@ -1,15 +1,8 @@
 ### Hi there, I'm Masataka Shida 👋
 
-### Skills & Experience 🚀
+### Profile 🚀
 
-- Programming languages: Ruby, C++, Go, Python
-- Cloud and Infrastructure: AWS, GCP, IoT Core, DynamoDB, Timestream, CloudFront, S3, Lambda, SQS, SNS, SES, EC2, ECS, ECR, RDS, Aurora, CloudWatch, ELB, API Gateway, MSK, IoT Events, AppSync, Amazon Data Firehose
-- Frameworks: Rails, Hanami, React Native
-- Container technology: Docker
-- CI/CD: Jenkins, GitHub Actions, CircleCI
-- Databases: MySQL, PostgreSQL
-- Configuration management: Terraform, CloudFormation, Serverless Framework
-- Other technologies: Git, GitHub, Datadog, Sentry, FutureVuls, Auth0
+https://masatakashida.com/engineer-profile/
 
 ### Projects 💼
 
